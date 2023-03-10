@@ -10,7 +10,7 @@ public class Pyramid_Star {
 		int num = sc.nextInt(); // n = 4 가정
 		System.out.println(); // 줄 바꿈
 		
-		for(int n = 1; n <= num; n++) { // n(현재 단)이 num(전체단)보다 작거나 같을때까지 증가
+		for(int n = 1; n <= num; n++) { // 1,2,3,4 네 번 반복
 		for(int i = 1; i <= num-n; i++) { // 공백 출력
 			System.out.print(" "); 
 		}
