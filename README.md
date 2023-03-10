@@ -1,4 +1,4 @@
-# Pyramid_Star
+# 피라미드형 별 찍기Pyramid_Star
 
 # Java Cord
 ![image](https://user-images.githubusercontent.com/122009563/224196644-9433d93b-7a97-4cdd-9661-32703a1af0e6.png)
